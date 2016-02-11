@@ -7,59 +7,6 @@ Prepare individuals who have never opened a terminal window who don't know what 
 
 ## End Goals
 
-### Understand basic Linux commands
-* mv
-* ls
-* rm
-* cat
-* cp
-* file structure - directories - hidden files - extensions
-* tree
-* Flags (generically how they work) commands/subcommands
-* Sudo
-
-### Understanding Basic Windows Commmands
-* dir
-* cp (or copy)
-* rm
-* cat
-* move (or mv)
-* tree
-* flags commands/subcommands
-* run as administrator
-* powershell 
-
-### Communication Protocols
-* Http
-* SSH
-* RDP
-* WinRM
-
-### Communication Tools 
-* Browser
-* PuTTY/SSH
-* Remote Desktop Client (Windows)
- 
-### use editor (nano)
-* what is an editor
-* launch the editor
-* launch an editor with a file
-* edit a file (you can't always use your mouse)
-* exit
-* save
-* exit without saving
-
-### Ruby
-* Primatives
-* Strings
-* Symbols
-* Integers
-* Floats
-* Functions or methods
-* Method parameters (arguments)
-* Method blocks as a parameter
-* Ruby file extension
- 
 ### Macro Infrastructure (the big picture) - view of a web application
 * Webserver
 * Appserver
@@ -84,4 +31,61 @@ Prepare individuals who have never opened a terminal window who don't know what 
 * Workstation
 * Run-List
 
+### Communication Protocols
+* Http
+* SSH
+* RDP
+* WinRM
 
+### Communication Tools 
+* Browser
+* PuTTY/SSH
+* Remote Desktop Client (Windows)
+
+### Understand basic Linux commands
+* mv
+* ls
+* rm
+* cat
+* cp
+* file structure - directories - hidden files - extensions
+* tree
+* Flags (generically how they work) commands/subcommands
+* Sudo
+
+### Understanding Basic Windows Commmands
+* dir
+* cp (or copy)
+* rm
+* cat
+* move (or mv)
+* tree
+* flags commands/subcommands
+* run as administrator
+* powershell 
+
+### use editor (nano)
+* what is an editor
+* launch the editor
+* launch an editor with a file
+* edit a file (you can't always use your mouse)
+* exit
+* save
+* exit without saving
+
+### Chef in Practice
+* creating a recipe
+* file resource 
+* package resource
+* applying recipe
+
+### Ruby
+* Primatives
+* Strings
+* Symbols
+* Integers
+* Floats
+* Functions or methods
+* Method parameters (arguments)
+* Method blocks as a parameter
+* Ruby file extension
